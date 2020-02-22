@@ -1,0 +1,83 @@
+#divisor{
+    margin-top: 700px;
+   width: 700px;
+    margin-left: 500px;
+}
+
+
+#home{
+    margin-top:160px;
+    width:900px;
+    margin-left: 400px;
+}
+header{
+    margin-top: 70px;
+    width: 1590px;
+    height: 50px;
+    background-color: black;
+}
+#cabecalho{
+        margin-left: 1150px;
+    
+}
+#cabecalho a{
+    text-decoration: none;
+    padding: 15px;
+    color:white;
+
+}
+
+
+
+
+#produtos{
+    height: 80px;
+
+
+}
+#country{
+    margin-left: 300px;
+    margin-top: 400px;
+    height: 50px;
+        padding: 15px;
+}
+#junin{
+    margin-left: 300px;
+        margin-top: 400px;
+        height: 80px;
+    padding: 15px;
+}
+#bucket{
+    margin-left: 300px;
+        margin-top: 400px;
+        height: 80px;
+            padding: 15px;
+}
+
+
+#quem_somos h1{
+    margin-left: 160px;
+    font-size: 50px;
+    font-family: fantasy;
+}
+#quem_somos p{
+     text-align: justify;
+    margin-left: -200px;
+}
+#quem_somos{
+    width: 900px;
+    height: 800px;
+    margin-left: 500px;
+    margin-top: 70px;
+}
+
+
+
+
+#contato{
+        margin-left: 720px;
+}
+#contato img {
+    width: 50px;
+    padding: 26px;
+}
